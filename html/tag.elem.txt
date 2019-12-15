@@ -1,0 +1,27 @@
+HEAD:
+
+
+BODY:
+
+<p>parágrafo</p>  -> Cria um parágrafo com o texto "parágrafo"
+<br/>             -> Quebra de linha
+
+<h1>This is heading 1</h1> -> Título (h1)
+<h2>This is heading 2</h2> -> Subtítulo (h2)
+<h3>This is heading 3</h3> -> h3
+<h4>This is heading 4</h4> -> h4
+<h5>This is heading 5</h5> -> h5
+<h6>This is heading 6</h6> -> h6
+
+<hr />  -> Cria uma linha horizontal
+
+<!-- comentário -->
+
+<img />  -> Adiciona uma imagem ao documento (a imagem pode ter uma borda)
+<img src="image.png" alt="imagem" /> 
+
+<a>link</a> -> Cria um link
+<a href="link">texto</a>
+<a href="http://www.sololearn.com"> Learn Playing </a>
+
+listas - em progresso :)

@@ -1,0 +1,17 @@
+align="center,left,right"  -> Alinha o texto para o centro,direita ou esquerda da página
+
+width="50px,50%"    -> Muda a largura de um item
+height="50px,50%"   -> Muda a altura de um item
+border="1px"        -> Cria uma borda à volta de um objeto
+
+src="image.jpg,link_da_imagem"  -> Define um url, normalmente usado na tag <img/>
+alt="" -> Define um texto alternativo para uma foto/vídeo
+
+href="link" -> Define uma ligação a outra página (normalmente usado para especificar um link na tag <a>)
+target="_blank" -> Determina um alvo para um link (se vai abrir no mesmo separador, num novo separador ou numa nova janela)
+nota: _blank é uma indicação para abrir num novo separador ou janela
+
+
+
+
+NOTA: Neste documento, a "," representa "ou"
