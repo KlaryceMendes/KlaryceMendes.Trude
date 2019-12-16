@@ -11,7 +11,9 @@ href="link" -> Define uma ligação a outra página (normalmente usado para espe
 target="_blank" -> Determina um alvo para um link (se vai abrir no mesmo separador, num novo separador ou numa nova janela)
 nota: _blank é uma indicação para abrir num novo separador ou janela
 
+colspan="2" -> junta duas ou mais colunas numa tabela
 
-
+bgcolor="red" -> define a cor de fundo
+color="red"   -> define uma cor
 
 NOTA: Neste documento, a "," representa "ou"

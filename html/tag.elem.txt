@@ -24,4 +24,24 @@ BODY:
 <a href="link">texto</a>
 <a href="http://www.sololearn.com"> Learn Playing </a>
 
-listas - em progresso :)
+<ol>                  -> Indica o ínicio de uma lista ordenada (começa com 1,2,3,4)
+<li>primeiro</li>     -> Indica o primeiro elemento da lista
+<li>segundo</li>      -> Indica o segundo elemento da lista
+<li>terceiro</li>
+</ol>                 -> Indica o fim da lista ordenada
+
+<ul>                  -> Indica o ínicio de uma lista (começa com .)
+<li>primeiro</li>     -> Indica o primeiro elemento da lista
+<li>segundo</li>      -> Indica o segundo elemento da lista
+<li>terceiro</li>
+</ul>                 -> Indica o fim da lista
+ 
+<table>               -> Define o início de uma tabela
+   <tr>               -> Cria uma linha
+      <td></td>       -> Cria uma coluna
+      <td></td>
+      <td></td>
+   </tr>              -> Fim da linha
+</table>              -> Fim da tabela
+
+inline elements - em progresso :::)
