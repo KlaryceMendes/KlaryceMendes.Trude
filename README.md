@@ -1,4 +1,4 @@
 # <K.M>.trude
-Projetos de Etelly.exe e de Trude 
+Projetos de <K.M> e de Trude 
 
 + HTML
